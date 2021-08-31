@@ -4,6 +4,8 @@
 
 Welcome to the 2021 SASI Openscapes Champions Cohort! This is a Cohort for the Symbiosis in Aquatic Systems Initiative ([SASI](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative)), funded by the [Gordon and Betty Moore Foundation](https://www.moore.org/). Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
 
+<img align="right" src="horst-champions-trailhead.png" width="450">  
+
 ## Cohort Agendas
 
 We will meet as a Cohort via Zoom eight times over four months for 1.5 hours, on alternating Thursdays in September through December 2021. Additionally, we will schedule several skillbuilding Clinics. 
