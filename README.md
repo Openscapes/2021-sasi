@@ -31,7 +31,7 @@ TBD | > protocols.io Clinics <|
 
 ## Participating teams
 
-These are the teams participating: please edit this repo yourself following our GitHub Clinic!
+These are the teams participating: please add any edits directly (we'll learn how in our GitHub Clinic!)
 
 [**The Gladfelter Lab**](https://gladfelterlab.web.unc.edu/) at the University of North Carolina is interested in how cells are organized in time and space.  They study how cytoplasm is spatially patterned and how cells sense their own shape.  They also investigate how timing in the cell division cycle can be highly variable yet still accurate. For their work, we combine quantitative live cell microscopy and computational, genetic and biochemical approaches in fungal and mammalian cells.
 
