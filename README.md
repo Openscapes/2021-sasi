@@ -50,6 +50,7 @@ These are the teams participating: please add any edits directly (we'll learn ho
 ## Openscapes Team
 
 **Lenny Teytelman**, protocols.io CEO, is co-leading
+
 **Emma Ganley**, protocols.io Director of Strategic Initiatives, is co-leading
 
 ## More Background on Openscapes and the Champions program:
