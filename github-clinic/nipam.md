@@ -13,6 +13,7 @@ We can make lists that are automagically numbered – *note that lists need a ca
 1. cakes
 2. cupcakes
 3. onion
+1. red apple
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
@@ -22,6 +23,8 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
 
 ![](https://octodex.github.com/images/labtocat.png)
+
+![] (https://nipam.smugmug.com/WoodsHole/People-and-Places/People/i-fcbk355/A)
 
 ## Your turn
 
