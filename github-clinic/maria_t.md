@@ -1,13 +1,17 @@
 # The power of open science: publishing with GitHub
 
-We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
-
+We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown: 
 We can make words **bold** or *italic*.
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+_You **can** combine them_
 
 ## We can make headers.
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
-
+List
 1. bananas
 1. tamales
 1. cakes
@@ -17,7 +21,9 @@ We can make lists that are automagically numbered – *note that lists need a ca
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
 Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
 
-We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
+We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.*
+![GitHub Logo](<img width="338" alt="Frederickson-Lab" src="https://user-images.githubusercontent.com/73489125/133144766-3f101b1c-c773-4468-a9fb-49933cbdc770.png">
+) Format: ![Alt Text](url)
 
 ![](https://octodex.github.com/images/labtocat.png)
 
