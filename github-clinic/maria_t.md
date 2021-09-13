@@ -21,12 +21,14 @@ List
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
 Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
 
-We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.*
-![GitHub Logo](<img width="338" alt="Frederickson-Lab" src="https://user-images.githubusercontent.com/73489125/133144766-3f101b1c-c773-4468-a9fb-49933cbdc770.png">) Format: ![Alt Text](url)
-
 ![](https://octodex.github.com/images/labtocat.png)
 
 ## Your turn
+List 
+
+We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.*
+
+![GitHub Logo](<img width="338" alt="Frederickson-Lab" src="https://user-images.githubusercontent.com/73489125/133144766-3f101b1c-c773-4468-a9fb-49933cbdc770.png">) Format: ![Alt Text](url)
 
 **Click the "edit pencil and play around – what else can you change or add?**
 
