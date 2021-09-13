@@ -11,6 +11,7 @@ We can make lists that are automagically numbered – *note that lists need a ca
 1. bananas
 1. tamales
 1. cakes
+2. more cakes
 
 -lists
 -more bullet types
