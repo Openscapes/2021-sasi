@@ -24,6 +24,8 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](https://octodex.github.com/images/labtocat.png)
 
+![](https://pixels.com/featured/american-pika-with-flowers-joe-maskasky.html)
+
 ## Your turn
 
 **Click the "edit pencil and play around – what else can you change or add?**
