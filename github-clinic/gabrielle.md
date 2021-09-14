@@ -2,6 +2,8 @@
 
 Patel Lab (http://www.patellab.net)
 
+**More hastags do not make font bigger**
+
 We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
 
 We can make words **bold** or *italic*.
