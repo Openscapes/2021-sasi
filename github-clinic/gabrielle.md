@@ -1,6 +1,6 @@
 # The power of open science: publishing with GitHub
 
-Patel Lab (http://www.patellab.net)
+[Patel Lab] (http://www.patellab.net)
 
 **More hastags do not make font bigger**
 
