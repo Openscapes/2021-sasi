@@ -2,6 +2,7 @@
 # Esto es practica
 **sera** o no *sera*
 
+Reconocera acentos o nel, será.
 
 We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
 
