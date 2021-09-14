@@ -1,4 +1,4 @@
-#### The power of open science: publishing with GitHub
+# The power of open science: publishing with GitHub
 
 Patel Lab (http://www.patellab.net)
 
