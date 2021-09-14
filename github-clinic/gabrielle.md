@@ -1,4 +1,6 @@
-# The power of open science: publishing with GitHub
+## The power of open science: publishing with GitHub
+
+Patel Lab (http://www.patellab.net)
 
 We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
 
