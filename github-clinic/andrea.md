@@ -7,6 +7,10 @@ Reconocera acentos o nel, será.
 We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
 
 We can make words **bold** or *italic*.
+1. Como se ve? necesita numero
+ .
+3.
+
 
 ## We can make headers.
 
