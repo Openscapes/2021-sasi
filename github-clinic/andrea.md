@@ -8,7 +8,7 @@ We can use GitHub to publish on the open web. GitHub supports Markdown text form
 
 We can make words **bold** or *italic*.
 1. Como se ve? necesita numero
- .
+1.
 3.
 
 
