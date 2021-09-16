@@ -23,7 +23,7 @@ Date | Cohort Call Topics          | Resources
 9/13, 9/14 | > GitHub Clinics <| [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) 
 09/23 | 2. Team culture and protocols for future us | [team culture](https://openscapes.github.io/series/team-culture)
 10/07 | 3. Open communities and the art of writing methods | [coding with communities](https://openscapes.github.io/series/communities) 
-TBD | > protocols.io Clinics <|  
+10/11, 10/12 | > protocols.io Clinics <|  
 10/21 | 4. Pathways share |  | 
 11/04 | 5. Sharing negative results and tricky details |  | 
 11/18 | 6. Peer reviewing methods and publishing |  | 
