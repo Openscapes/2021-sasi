@@ -50,6 +50,10 @@ These are the teams participating: please add any edits directly (we'll learn ho
 
 ## Openscapes Team
 
+**Julie Lowndes**, Openscapes Co-Director, NCEAS, UCSB, is co-leading
+
+**Erin Robinson**, Openscapes Co-Director, Metadata Game Changers, is co-leading
+
 **Lenny Teytelman**, protocols.io CEO, is co-leading
 
 **Emma Ganley**, protocols.io Director of Strategic Initiatives, is co-leading
