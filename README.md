@@ -22,7 +22,7 @@ Date | Cohort Call Topics          | Resources
 09/09 | [1. Openscapes mindset and better science in less time](https://docs.google.com/document/d/1k9bJouEPcWycP-pvcMSo6GeKZSUlDaIEgHUljJncCFM/edit?usp=sharing) | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/bsilt) 
 9/13, 9/14 | > GitHub Clinics <| [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) 
 09/23 | [2. Team culture and protocols for future us](https://docs.google.com/document/d/1re8oxiCHDOCX_GpqgrScDVJHeItwNgMx1MZpfLSiubI/edit#heading=h.8nycq5yuxfgb) | [team culture](https://openscapes.github.io/series/team-culture)
-10/07 | [3. The art of writing methods and protocols communities](https://docs.google.com/document/d/1sk_GbcMsvGtP8FfylxdW8Fk7xSCvUmKOrvX-V7Q8KvA/edit#) | [coding with communities](https://openscapes.github.io/series/communities) 
+10/07 | [3. The art of writing methods and protocols communities](https://docs.google.com/document/d/1sk_GbcMsvGtP8FfylxdW8Fk7xSCvUmKOrvX-V7Q8KvA/edit#) |
 10/11, 10/12 | > protocols.io Clinics <|  
 10/21 | 4. Pathways share |  | 
 11/04 | 5. Sharing negative results and tricky details |  | 
