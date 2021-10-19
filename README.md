@@ -24,7 +24,7 @@ Date | Cohort Call Topics          | Resources
 09/23 | [2. Team culture and protocols for future us](https://docs.google.com/document/d/1re8oxiCHDOCX_GpqgrScDVJHeItwNgMx1MZpfLSiubI/edit#heading=h.8nycq5yuxfgb) | [team culture](https://openscapes.github.io/series/team-culture)
 10/07 | [3. The art of writing methods and protocols communities](https://docs.google.com/document/d/1sk_GbcMsvGtP8FfylxdW8Fk7xSCvUmKOrvX-V7Q8KvA/edit#) |
 10/11, 10/12 | > protocols.io Clinics <|  
-10/21 | 4. Pathways share |  | 
+10/21 | [4. Pathways share](https://docs.google.com/document/d/1Z7hhfS9XsCa1BZlQVLqSPBuikSnAb6CcQBziUo9E_RI/edit#) |  | 
 11/04 | 5. Sharing negative results and tricky details |  | 
 11/18 | 6. Peer reviewing methods and publishing |  | 
 12/02 | 7. Data and coding strategies for future us | [data strategies](https://openscapes.github.io/series/data-strategies), [coding strategies](https://openscapes.github.io/series/coding-strategies) | 
@@ -34,7 +34,7 @@ Date | Cohort Call Topics          | Resources
 
 These are the teams participating: please add any edits directly (we'll learn how in our GitHub Clinic!)
 
-[**The Gladfelter Lab**](https://gladfelterlab.web.unc.edu/) at the University of North Carolina is interested in how cells are organized in time and space.  They study how cytoplasm is spatially patterned and how cells sense their own shape.  They also investigate how timing in the cell division cycle can be highly variable yet still accurate. For their work, we combine quantitative live cell microscopy and computational, genetic and biochemical approaches in fungal and mammalian cells. GitHub/Protocols.io: https://github.com/GladLab/GladLab / https://www.protocols.io/workspaces/gladfelterlab
+[**The Gladfelter Lab**](https://gladfelterlab.web.unc.edu/) at the University of North Carolina is interested in how cells are organized in time and space.  They study how cytoplasm is spatially patterned and how cells sense their own shape.  They also investigate how timing in the cell division cycle can be highly variable yet still accurate. For their work, we combine quantitative live cell microscopy and computational, genetic and biochemical approaches in fungal and mammalian cells. GitHub/Protocols.io: <https://github.com/GladLab/GladLab> / <https://www.protocols.io/workspaces/gladfelterlab>
 
 [**The Frederickson Lab**](http://mutualism.ca/) at the University of Toronto focuses on the ecology and evolution of mutualism, or cooperation between species. Mutualisms are extremely common in nature—so common, in fact, that every plant and animal on Earth may be involved in at least one mutualism. The Frederickson Lab uses field, molecular, and computational approaches to study diverse plant-animal and host-microbe mutualisms, with the goal of understanding how and why species cooperate. GitHub/Protocols.io: 
 
