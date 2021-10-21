@@ -49,4 +49,6 @@ Please watch the full clinic [video](https://drive.google.com/file/d/1s2idsg0XAT
 * b. Create a new protocol, add abstract/authors/title and attach the PDF/Word protocols to it (easier to find later than option "a")
 * c. Use the "import existing steps" in the editor when creating a new protocol to copy-paste a set of steps
 * d. Use https://www.protocols.io/we-enter-protocols as above for the protocols.io editors to help with the import
+
+
 **You can always come back and make a new version, improve, format later! Just get the existing methods in first, using any option above, and you know they will never disappear.**
