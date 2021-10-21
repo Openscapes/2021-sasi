@@ -41,3 +41,12 @@
 11. Explore if you can make a collection of protocols or a document
 
 12. Explore the share functionality
+
+### Organizing existing methods
+
+Please watch the full clinic [video](https://drive.google.com/file/d/1s2idsg0XATa5dNu0H3GxO9Q73u1rSv7Z/view?usp=sharing). Briefly, you have several options:
+* a. Simply drag your existing PDF/Word/etc. protocols into the team's workspace
+* b. Create a new protocol, add abstract/authors/title and attach the PDF/Word protocols to it (easier to find later than option "a")
+* c. Use the "import existing steps" in the editor when creating a new protocol to copy-paste a set of steps
+* d. Use https://www.protocols.io/we-enter-protocols as above for the protocols.io editors to help with the import
+**You can always come back and make a new version, improve, format later! Just get the existing methods in first, using any option above, and you know they will never disappear.**
