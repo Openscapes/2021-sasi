@@ -25,7 +25,7 @@ Date | Cohort Call Topics          | Resources
 10/07 | [3. The art of writing methods and protocols communities](https://docs.google.com/document/d/1sk_GbcMsvGtP8FfylxdW8Fk7xSCvUmKOrvX-V7Q8KvA/edit#) |
 10/11, 10/12 | > protocols.io Clinics <|  
 10/21 | [4. Pathways share](https://docs.google.com/document/d/1Z7hhfS9XsCa1BZlQVLqSPBuikSnAb6CcQBziUo9E_RI/edit#) |  | 
-11/04 | [5. Troubleshootin & sharing negative results](https://docs.google.com/document/d/1PUmhdzZiuCGb0oqrKUN9KzuaepFaxE-XFwvCQyjFBiY/edit#) |  | 
+11/04 | [5. Troubleshooting & sharing negative results](https://docs.google.com/document/d/1PUmhdzZiuCGb0oqrKUN9KzuaepFaxE-XFwvCQyjFBiY/edit#) |  | 
 11/18 | 6. Peer reviewing methods and publishing |  | 
 12/02 | 7. Data and coding strategies for future us | [data strategies](https://openscapes.github.io/series/data-strategies), [coding strategies](https://openscapes.github.io/series/coding-strategies) | 
 12/16 | 8. Pathways share reprise |  | 
