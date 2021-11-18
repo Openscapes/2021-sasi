@@ -2,7 +2,7 @@
 
 # 2021 SASI Openscapes Champions Cohort
 
-Welcome to the 2021 SASI Openscapes Champions Cohort! This is a Cohort for the Symbiosis in Aquatic Systems Initiative ([SASI](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative)), funded by the [Gordon and Betty Moore Foundation](https://www.moore.org/). Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
+Welcome to the 2021 SASI Openscapes Champions Cohort! This is a Cohort for the Symbiosis in Aquatic Systems Initiative ([SASI](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative)), funded by the [Gordon and Betty Moore Foundation](https://www.moore.org/) and co-led with [protocols.io](https://protocols.io). Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
 
 <img align="right" src="horst-champions-trailhead.png" width="450">  
 
