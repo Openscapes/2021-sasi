@@ -30,6 +30,8 @@ Date | Cohort Call Topics          | Resources
 12/02 | [7. Data and coding strategies for future us](https://docs.google.com/document/d/1LykFTjezz0oPxL1Ytx8L7PRbWJ0bHWwqU9WPyvmJz58/edit?usp=sharing) | [data strategies](https://openscapes.github.io/series/data-strategies), [coding strategies](https://openscapes.github.io/series/coding-strategies) | 
 12/16 | [8. Screenshare-and-tell](https://docs.google.com/document/d/113AF_JDEro67j9zc487yHXnXQ09hlh-VkJp7jpgAepA/edit?usp=sharing) |  | 
 
+[**call digests**](https://github.com/Openscapes/2021-sasi/issues?q=is%3Aopen+is%3Aissue+label%3Adigest)
+
 ## Participating teams
 
 These are the teams participating: please add any edits directly (we'll learn how in our GitHub Clinic!)
